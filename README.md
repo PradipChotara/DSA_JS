@@ -1,1 +1,6 @@
-# JS
+-Stack
+-Queue
+-Linked List
+-Tree
+-Heap
+-Graph
