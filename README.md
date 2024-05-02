@@ -1,7 +1,9 @@
--Stack
--Queue
+-Stack[DONE]
+-Queue[DONE]
 -Linked List
 -Tree
 -Heap
 -Graph
--TEST
+
+
+npm i
